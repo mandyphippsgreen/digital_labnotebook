@@ -26,3 +26,6 @@ Name in square bracket, link in normal
 [Lists_bullets notes](lists_bullets.md)
 
 [Table notes](tables.md)
+
+To make a link to the folder, you have to include the folder name and / 
+Link to [methods_folder](Methods/fakefile1)
