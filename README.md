@@ -17,3 +17,12 @@ To make horizontal line, use - (minus) signs. You need  3 to get the full line.
 Another way to make lines to create sections is using underscore _
 
 ______
+
+* Link some of the files here
+
+Name in square bracket, link in normal
+[Text stuff notes](text_stuff.md)
+
+[Lists_bullets notes](lists_bullets.md)
+
+[Table notes](tables.md)
